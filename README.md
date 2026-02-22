@@ -1,5 +1,11 @@
 ## Photo Sorter (manual sequence by rename)
 
+the main aim to create this project is to be able to sort and rename pics in a folder in my order. i had around 200 pics which i had to reorder in my order to share it to photographer for printing in album. to make thing straightforward and confusion free i thought of providing ordered pics so that they can be arranged in printed album by photographer himself. hence this project was born
+
+you manually arrange and reorder the pics. it will keep a note of all the rearrangements. once done you have to click on commit/rearrange button upon which the pics will be actually rearranged by renaming them in order along with prefix(provided in top bar)
+
+simple !!
+
 This is a small **PySide6** desktop app to:
 
 - Select a **single folder** containing photos (no subfolders)
